@@ -72,7 +72,7 @@ Finalizamos el rebase aplicando:
 
 ![Alt text](comandosRebase.jpg)
 
-Y vemos como, efectivamente, la rama bugFix a entrado a formar parte de la rama principal, resolviendo de esta forma el ejercicio
+Y vemos como, efectivamente, la rama bugFix ha entrado a formar parte de la rama principal, resolviendo de esta forma el ejercicio
 
 ![Alt text](diagramaRebaseo.jpg)
 
