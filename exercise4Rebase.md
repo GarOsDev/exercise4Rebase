@@ -6,7 +6,7 @@ Esta nueva forma de combinación se conoce por el nombre de "rebase". En la imag
 
 ![Alt text](introduccion.jpg)
 
-Como podemos entender, el rebase consistirá en aplicar en el proyecto de destino y conjunto de entregas que se han ido realizando a medida que hemos avanzado en el proyecto.
+Como podemos entender, el rebase consistirá en aplicar a la linea principal de proyecto el conjunto de entregas que se han ido realizando en ramas a medida que hemos avanzado en el proyecto. Con esto conseguieremos una linea principal de proyecto mas limpia y organizada
 
 Asi pues, una vez llegados a este punto, comenzamos a realizar el ejercicio:
 
@@ -75,5 +75,7 @@ Finalizamos el rebase aplicando:
 Y vemos como, efectivamente, la rama bugFix ha entrado a formar parte de la rama principal, resolviendo de esta forma el ejercicio
 
 ![Alt text](diagramaRebaseo.jpg)
+
+> En este punto podríamos hacer commit de main para ponerlo a la misma altura de proyecto que el rebase realizado de bugFix sobre main, pero el ejercicio finaliza al realizar dicho rebaseo
 
 
